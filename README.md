@@ -8,7 +8,7 @@ Passionate about quantitative finance, algorithmic trading, and stochastic proce
 - **[strat-optimizer](https://github.com/janneschoen/strat-optimizer)** - A multi-functional **backtesting engine** for optimizing systematic trading strategies (Python + C)
 
 ### What I'm Looking For
-Open to **quant trading**, **quantitative research**, or **quant dev** internships for Summer 2026 at hedge funds, prop trading firms, or investment banks.
+Open to **quant trading**, **quantitative research**, or **quant dev** internships for Summer 2026/27 at hedge funds, prop trading firms, or investment banks.
 
 Feel free to reach out! → [schoen.janne@gmail.com](mailto:schoen.janne@gmail.com)
 
