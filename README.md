@@ -6,6 +6,7 @@ Passionate about quantitative finance, algorithmic trading, and stochastic proce
 
 ### Currently Building
 - **[strat-optimizer](https://github.com/janneschoen/strat-optimizer)** - A multi-functional **backtesting engine** for optimizing systematic trading strategies (Python + C)
+- **[poly-regression](https://github.com/janneschoen/poly-regression)** - Fast and efficient polynomial regression for data-fitting in C
 
 ### What I'm Looking For
 Open to **quant trading**, **quantitative research**, or **quant dev** internships for Summer 2026/27 at hedge funds, prop trading firms, or investment banks.
