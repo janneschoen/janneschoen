@@ -10,6 +10,7 @@ Passionate about quantitative finance, algorithmic trading, and stochastic proce
 
 ### What I'm Looking For
 Open to **quant trading/research/dev** internships for Summer 26/27
+
 Feel free to reach out! → [schoen.janne@gmail.com](mailto:schoen.janne@gmail.com)
 
 ### Skills & Tools
