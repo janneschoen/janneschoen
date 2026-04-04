@@ -9,8 +9,7 @@ Passionate about quantitative finance, algorithmic trading, and stochastic proce
 - **[poly-regression](https://github.com/janneschoen/poly-regression)** - Fast and efficient polynomial regression for data-fitting in C
 
 ### What I'm Looking For
-Open to **quant trading**, **quantitative research**, or **quant dev** internships for Summer 2026/27 at hedge funds, prop trading firms, or investment banks.
-
+Open to **quant trading/research/dev** internships for Summer 26/27
 Feel free to reach out! → [schoen.janne@gmail.com](mailto:schoen.janne@gmail.com)
 
 ### Skills & Tools
