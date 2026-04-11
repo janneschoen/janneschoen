@@ -6,10 +6,11 @@ Passionate about quantitative finance, algorithmic trading, and stochastic proce
 
 ### Currently Building
 - **[strat-optimizer](https://github.com/janneschoen/strat-optimizer)** - A multi-functional **backtesting engine** for optimizing systematic trading strategies (Python + C)
+- **[market-making-pm](https://github.com/janneschoen/market-making-pm)** - Live market making algorithm for Polymarket weather markets (Python)
 - **[poly-regression](https://github.com/janneschoen/poly-regression)** - Fast and efficient polynomial regression for data-fitting in C
 
 ### What I'm Looking For
-Open to **quant trading/research/dev** internships for Summer 26/27
+Open to **quant trading/research** internships and exploratory programs for 2026/2027.
 
 Feel free to reach out! → [schoen.janne@gmail.com](mailto:schoen.janne@gmail.com)
 
