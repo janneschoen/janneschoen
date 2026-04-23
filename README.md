@@ -9,9 +9,7 @@ Passionate about quantitative finance, algorithmic trading, and stochastic proce
 - **[market-making-pm](https://github.com/janneschoen/market-making-pm)** - Live **market making algorithm** for Polymarket weather markets (Python)
 - **[poly-regression](https://github.com/janneschoen/poly-regression)** - Fast and efficient **polynomial regression** for data-fitting in C
 
-### What I'm Looking For
-Open to **quant trading/research** internships and exploratory programs for 2026/2027.
-
+### Contact
 Feel free to reach out! → [schoen.janne@gmail.com](mailto:schoen.janne@gmail.com)
 
 ### Skills & Tools
