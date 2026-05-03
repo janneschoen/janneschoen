@@ -16,9 +16,6 @@ I like to code - so I program everything myself, without vibecoding. That doesn'
 
 After learning **C** at university, I often use it for *performance-critical* parts of my programs.
 
-### Contact
-Feel free to reach out! → [schoen.janne@gmail.com](mailto:schoen.janne@gmail.com)
-
 ### Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,c,linux)](https://skillicons.dev)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
