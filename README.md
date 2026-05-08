@@ -1,18 +1,11 @@
 # Hi, I'm Janne
 
-Passionate about topics like *machine learning* and *quantitative finance*.
+Passionate about topics like *quantitative finance* or *machine learning*.
 
 ### Featured Projects
 - **[strat-optimizer](https://github.com/janneschoen/strat-optimizer)** - A multi-functional **backtesting engine** for optimizing systematic trading strategies (Python + C)
 - **[poly-regression](https://github.com/janneschoen/poly-regression)** - Fast and efficient **polynomial regression** for data-fitting in C
 - **[market-making-pm](https://github.com/janneschoen/market-making-pm)** - Live **market making algorithm** for Polymarket weather markets (Python)
-
-### About My Projects
-I like to code - so I program everything myself, without vibecoding. That doesn't mean I am opposed to LLMs as a tool for learning, though.
-
-**Python** was the first programming language I learned, and it's the base for most of my projects.
-
-I often use **C** for *performance-critical* parts of my programs.
 
 ### Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,c,linux)](https://skillicons.dev)
