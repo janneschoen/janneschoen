@@ -1,6 +1,6 @@
 # Hi, I'm Janne
 
-Passionate about topics like *quantitative finance* or *machine learning*.
+Passionate about a variety of topics - my main languages are Python and C.
 
 ### Featured Projects
 - **[strat-optimizer](https://github.com/janneschoen/strat-optimizer)** - A multi-functional **backtesting engine** for optimizing systematic trading strategies (Python + C)
