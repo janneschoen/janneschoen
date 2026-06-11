@@ -1,17 +1,26 @@
-# Hi, I'm Janne
+# Janne Schön
 
-Interested in quantitative trading and market microstructure. Comfortable in C, C++, and Python.
+Quantitative trading, market microstructure, and low-latency systems.
 
-🏆 **IMC Prosperity 4** — Top 14% overall, top 6% in algorithmic trading  
-🎓 Incoming B.Sc. Computer Science at **TUM** (Technical University of Munich), starting October 2026
+**Top 6% algorithmic trading** — IMC Prosperity 4  
+**Incoming B.Sc. Computer Science** — Technical University of Munich (Oct 2026)
 
-### Featured Projects
-- **[limit-order-book](https://github.com/janneschoen/limit-order-book)** — High-throughput limit order book matching engine in C++. Price-time priority, continuous double-auction matching, with complexity analysis and correctness guarantees.
-- **[strat-optimizer](https://github.com/janneschoen/strat-optimizer)** — Fast C/Python backtesting framework with multi-parameter grid search and visualization.
-- **[market-making-pm](https://github.com/janneschoen/market-making-pm)** — Live market making bot for Polymarket weather markets (Python).
-- **[poly-regression](https://github.com/janneschoen/poly-regression)** — Fast polynomial regression in C.
+### Projects
 
-### Skills & Tools
+**[limit-order-book](https://github.com/janneschoen/limit-order-book)**  
+Limit order book matching engine in C++ — price-time priority, continuous double-auction.
+
+**[market-making-pm](https://github.com/janneschoen/market-making-pm)**  
+Live market making bot for Polymarket weather markets (Python).
+
+**[strat-optimizer](https://github.com/janneschoen/strat-optimizer)**  
+Backtesting framework with multi-parameter grid search and visualization (C/Python).
+
+**[poly-regression](https://github.com/janneschoen/poly-regression)**  
+Fast polynomial regression in C.
+
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,arch)](https://skillicons.dev)
 
 [📧 schoen.janne@gmail.com](mailto:schoen.janne@gmail.com)
