@@ -1,14 +1,17 @@
 # Hi, I'm Janne
 
-Passionate about a variety of topics - my main languages are Python and C.
+Interested in quantitative trading and market microstructure. Comfortable in C, C++, and Python.
+
+🏆 **IMC Prosperity 4** — Top 14% overall, top 6% in algorithmic trading  
+🎓 Incoming B.Sc. Computer Science at **TUM** (Technical University of Munich), starting October 2026
 
 ### Featured Projects
-- **[strat-optimizer](https://github.com/janneschoen/strat-optimizer)** - A multi-functional **backtesting engine** for optimizing systematic trading strategies (Python + C)
-- **[poly-regression](https://github.com/janneschoen/poly-regression)** - Fast and efficient **polynomial regression** for data-fitting in C
-- **[market-making-pm](https://github.com/janneschoen/market-making-pm)** - Live **market making algorithm** for Polymarket weather markets (Python)
+- **[limit-order-book](https://github.com/janneschoen/limit-order-book)** — High-throughput limit order book matching engine in C++. Price-time priority, continuous double-auction matching, with complexity analysis and correctness guarantees.
+- **[strat-optimizer](https://github.com/janneschoen/strat-optimizer)** — Fast C/Python backtesting framework with multi-parameter grid search and visualization.
+- **[market-making-pm](https://github.com/janneschoen/market-making-pm)** — Live market making bot for Polymarket weather markets (Python).
+- **[poly-regression](https://github.com/janneschoen/poly-regression)** — Fast polynomial regression in C.
 
 ### Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,c,linux)](https://skillicons.dev)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,arch)](https://skillicons.dev)
+
+[📧 schoen.janne@gmail.com](mailto:schoen.janne@gmail.com)
