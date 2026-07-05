@@ -1,26 +1,32 @@
 # Janne Schön
 
-Quantitative trading, market microstructure, and low-latency systems.
+**Quantitative Trading · Market Microstructure · Low-Latency C++**
 
-**Top 6% algorithmic trading** — IMC Prosperity 4  
-**Incoming B.Sc. Computer Science** — Technical University of Munich (Oct 2026)
+IMC Prosperity 4 — **Top 6%** algorithmic trading  
+Incoming B.Sc. Computer Science — Technical University of Munich (Oct 2026)  
+
+---
 
 ### Projects
 
-**[limit-order-book](https://github.com/janneschoen/limit-order-book)**  
-Limit order book matching engine in C++ — price-time priority, continuous double-auction.
+**[limit-order-book](https://github.com/janneschoen/limit-order-book)**  `C++` `market-microstructure`
+Limit order book matching engine with price-time priority, continuous double-auction, and a real-time TUI depth-of-market ladder. Sliding-window flat array with `O(1)` insert/fill — built to understand how exchange matching engines work under the hood.
+> *~580 lines C++17 + FTXUI · correctness-first design*
 
-**[market-making-pm](https://github.com/janneschoen/market-making-pm)**  
-Live market making bot for Polymarket weather markets (Python).
+**[market-making-pm](https://github.com/janneschoen/market-making-pm)**  `Python` `live-trading`
+Automated market-making bot on Polymarket. Two-sided quoting with Avellaneda-Stoikov-inspired inventory skew, parallel execution across multiple markets, and automatic position neutralisation. Runs against live CLOB order books — not a simulation.
+> *async Python · real exchange API · inventory risk management*
 
-**[strat-optimizer](https://github.com/janneschoen/strat-optimizer)**  
-Backtesting framework with multi-parameter grid search and visualization (C/Python).
+**[strat-optimizer](https://github.com/janneschoen/strat-optimizer)**  `C` `Python` `OpenMP`
+High-performance backtesting framework with multi-parameter grid search, walk-forward validation, and visualisations. Hybrid C/Python architecture with OpenMP-parallelised simulation engine communicating via plain-text temp files — no sockets, no serialisation.
+> *~217k days/s throughput · extensible strategy framework*
 
-**[poly-regression](https://github.com/janneschoen/poly-regression)**  
-Fast polynomial regression in C.
+---
 
-<br>
+### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,arch)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,arch)](https://skillicons.dev)
 
-[📧 schoen.janne@gmail.com](mailto:schoen.janne@gmail.com)
+### Contact
+
+[📧 schoen.janne@gmail.com](mailto:schoen.janne@gmail.com) · [github.com/janneschoen](https://github.com/janneschoen)
