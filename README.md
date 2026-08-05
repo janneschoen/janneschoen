@@ -19,8 +19,8 @@ Automated market-making bot on Polymarket. Two-sided quoting with Avellaneda-Sto
 > *async Python · real exchange API · inventory risk management*
 
 **[strat-optimizer](https://github.com/janneschoen/strat-optimizer)**  `C` `Python` `OpenMP`
-High-performance backtesting framework with multi-parameter grid search, walk-forward validation, and visualisations. Hybrid C/Python architecture with OpenMP-parallelised simulation engine communicating via plain-text temp files — no sockets, no serialisation.
-> *~217k days/s throughput · extensible strategy framework*
+High-performance grid-search backtesting engine for systematic trading strategies. Hybrid C/Python architecture: the C simulation engine compiles to a shared library, loaded directly into Python via `ctypes` — all data flows through numpy arrays in shared memory. No subprocess, no serialisation.
+> *~40M days/s throughput · extensible strategy framework*
 
 ---
 
