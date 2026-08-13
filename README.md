@@ -30,4 +30,4 @@ High-performance grid-search backtesting engine for systematic trading strategie
 
 ### Contact
 
-[📧 janne.schoen@tum.de](mailto:janne.schoen@tum.de) · [github.com/janneschoen](https://github.com/janneschoen)
+[📧 schoen.janne@gmail.com](mailto:schoen.janne@gmail.com) · [github.com/janneschoen](https://github.com/janneschoen)
