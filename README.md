@@ -4,7 +4,7 @@
 
 BSc Computer Science @ TU Munich ('29)
 
-**Top 6%** algorithmic trading - IMC Prosperity 4
+**Top 6%** of the Algorithmic category (top 14% overall) - IMC Prosperity 4
 
 ---
 
