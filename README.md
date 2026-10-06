@@ -2,7 +2,7 @@
 
 **Quantitative Trading · Market Microstructure · Low-Latency C++**
 
-BSc Computer Science @ TU Munich ('29)
+BSc Computer Science @ TU Munich
 
 **Top 6%** of the Algorithmic category (top 14% overall) - IMC Prosperity 4
 
