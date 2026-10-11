@@ -1,6 +1,6 @@
 # Janne Schön
 
-**Quantitative Trading · Market Microstructure · Low-Latency C++**
+**Quantitative Trading · Market Microstructure · C++**
 
 BSc Computer Science @ TU Munich
 
@@ -14,13 +14,13 @@ BSc Computer Science @ TU Munich
 Limit order book matching engine with price-time priority, continuous double-auction, and a real-time TUI depth-of-market ladder. Sliding-window flat array with `O(1)` insert/fill — built to understand how exchange matching engines work under the hood.
 > *~580 lines C++17 + FTXUI · correctness-first design*
 
-**[market-making-pm](https://github.com/janneschoen/market-making-pm)**  `Python` `live-trading`
-Automated market-making bot on Polymarket. Two-sided quoting with Avellaneda-Stoikov-inspired inventory skew, parallel execution across multiple markets, and automatic position neutralisation. Runs against live CLOB order books — not a simulation.
+**[market-making-pm](https://github.com/janneschoen/market-making-pm)**  `Python` `paper-trading`
+Automated market-making bot on Polymarket. Two-sided quoting with Avellaneda-Stoikov-inspired inventory skew, parallel execution across multiple markets, and automatic position neutralisation. Ran live with a small personal allocation to exercise the full order path; now runs in paper-trading mode against live CLOB order books.
 > *async Python · real exchange API · inventory risk management*
 
 **[strat-optimizer](https://github.com/janneschoen/strat-optimizer)**  `C` `Python` `OpenMP`
 High-performance grid-search backtesting engine for systematic trading strategies. Hybrid C/Python architecture: the C simulation engine compiles to a shared library, loaded directly into Python via `ctypes` — all data flows through numpy arrays in shared memory. No subprocess, no serialisation.
-> *~40M days/s throughput · extensible strategy framework*
+> *~40M days/s (SMA-crossover test) · extensible strategy framework*
 
 ---
 
