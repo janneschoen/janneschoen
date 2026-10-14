@@ -1,6 +1,6 @@
 # Janne Schön
 
-**BSc Computer Science @ TU Munich · C++ / Python*
+**BSc Computer Science @ TU Munich · C++ / Python**
 
 **Top 6%** of the Algorithmic category (top 14% overall) - IMC Prosperity 4
 
